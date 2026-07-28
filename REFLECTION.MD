@@ -1,0 +1,1 @@
+As I was building out the code I ran the two different temperatures a few times. It was interesting to see how the low temperatures were more straightforward with easier to understand. The higher temperatures were more creative and abstract. Although I had used the case to use real-life examples, I felt that the lower temperatures were easier to understand.
